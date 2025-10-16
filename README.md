@@ -42,8 +42,11 @@ This is my *first project*, built to learn how backend, frontend, and live data 
 
 
 Ghost-Bus-Detector/
+
 │── backend/        # FastAPI server & Redis integration
+
 │── frontend/       # React frontend with map and charts
+
 │── README.md       # Project documentation
 
 
@@ -73,17 +76,19 @@ cd Ghost-Bus-Detector
 
    bash
    python -m venv venv
+   
    source venv/bin/activate    # On Mac/Linux
+   
    venv\Scripts\activate       # On Windows
    
 
-3. Install dependencies:
+4. Install dependencies:
 
    bash
    pip install -r requirements.txt
    
 
-4. Start the FastAPI server:
+5. Start the FastAPI server:
 
    bash
    uvicorn main:app --reload
