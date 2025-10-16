@@ -57,6 +57,7 @@ Follow these steps to set up and run the project locally.
 
 bash
 git clone https://github.com/AkhilAnand5218/ghost-bus-detector
+
 cd Ghost-Bus-Detector
 
 
