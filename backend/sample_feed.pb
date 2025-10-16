@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>nyct/gtfs-vehicle-positions</Key><RequestId>FXDEF7RVGX9REZRB</RequestId><HostId>BQGOi4xlNLZcY6gIt0XH2IluhC+8DI8m1MNARTUmBCppDHLbtV0U2wUwauoFTG9XqzQT/GIuxIM=</HostId></Error>
